@@ -1,4 +1,3 @@
-
 from person import person
 class d_bullet(person):
 	def __init__(self,x,y,game,size,mark,speed):
