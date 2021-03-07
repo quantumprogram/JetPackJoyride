@@ -11,6 +11,8 @@ V: speedboost ( can be used only once in the game )
 
 Gravity is implemented ( constant accelaration )
 Obstacles can be shot down
+Collects coins for score
+There are power pickup like magnet to attract coins 
 Defeat the dragon in final if you can.
 
 To run the game simply run the main.py file after cloning the repository. Use python3 compiler.
