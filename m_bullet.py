@@ -1,3 +1,4 @@
+
 from person import person
 class m_bullet(person):
 	def __init__(self,x,y,game,size,mark,speed):
