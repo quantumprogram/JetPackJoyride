@@ -1,7 +1,7 @@
-JetpackJoyride-clone
+#JetpackJoyride-clone
 This is an attempt to make a clone of Jetpack Joyride clone game in python. The end result works quite great. The entire code is designed in Object Oriented Design with minimal python library.   
 
-Controls:
+##Controls:
 
 W: move up
 A: move left
@@ -15,7 +15,7 @@ Defeat the dragon in final if you can.
 
 To run the game simply run the main.py file after cloning the repository. Use python3 compiler.
 
-Implementation:
+##Implementation:
 
 Entity Class: Classes belonging to all objects appearing on the board inherit entity class. This class attaches itself to the entity list of the game, has the concept of co-ordiantes. Basically it can be imagined as a pin or anchor tethering objects to the canvas. Note: Entity itself is not used. Only it's children are used.
 
