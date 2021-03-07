@@ -1,3 +1,4 @@
+
 from entity import entity
 from person import person
 class coins(person):
