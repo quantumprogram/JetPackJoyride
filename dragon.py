@@ -1,3 +1,4 @@
+
 from person import person
 class dragon(person):
 	def __init__(self,x,y,game,size,mark,leftmost,speed,lives):
